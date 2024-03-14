@@ -1,0 +1,28 @@
+
+
+/* tablet screen  */
+@media(max-width: 800px) {
+  .container {
+    height: 100vh;
+    width: 600px;
+    padding: 35px 120px;
+  }
+
+  .logo {
+    margin-bottom: 150px;
+  }
+}
+
+/* mobile screen */
+@media(max-width: 500px) {
+  .container {
+   height: 100vh;
+   width: 400px;
+   padding: 15px 20px;
+  }
+
+  .logo {
+margin-bottom: 150px;
+  }
+}
+
